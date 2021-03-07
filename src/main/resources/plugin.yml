@@ -1,0 +1,4 @@
+name: IronGolemFix
+version: ${project.version}
+main: com.nightmarephoenix.irongolemfix.IronGolemFix
+api-version: 1.16
